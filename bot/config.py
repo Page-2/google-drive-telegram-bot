@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "1410886016:AAG7NACLV9I_5llbYzmBsJOWmiMuRIIDbQ8"
     APP_ID = "1425638"
     API_HASH = "219531a945b5b4a1cd0615a6907b19a4"
-    DATABASE_URL = ""
+    DATABASE_URL = "https://data.heroku.com/datastores/6698bf93-b85c-4db4-8c81-7bd534e07baa"
     SUDO_USERS = "542281366" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/IFKOlhwMhnegUYgb_CVoog"
     DOWNLOAD_DIRECTORY = "./downloads/"
