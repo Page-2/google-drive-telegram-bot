@@ -10,24 +10,24 @@
       "value": "ANYTHING"
     },
     "BOT_TOKEN": {
-      "description": "Get it from @BotFather"
+      "description": "1444687125:AAF0KSkn87GBuO1EHj0hD33TY0EF-J5_4YM"
     },
     "APP_ID": {
-      "description": "Your API_ID, Get it from https://my.telegram.org/apps"
+      "description": "1425638"
     },
     "API_HASH": {
-      "description": "Your API_HASH, Get it from https://my.telegram.org/apps"
+      "description": "219531a945b5b4a1cd0615a6907b19a4"
     },
     "SUDO_USERS": {
       "description": "List of sudo users ids, seperated by space.",
-      "value": "999197022 939425014"
+      "value": "542281366"
     },
     "SUPPORT_CHAT_LINK": {
-      "description": "Support Chat link in valid url format."
+      "description": "https://t.me/joinchat/IFKOlhwMhnegUYgb_CVoog"
     },
     "DOWNLOAD_DIRECTORY": {
       "description": "Custom path for downloads. Must end with a forward slash.",
-      "value": "./downloads/"
+      "value": "./Upload Bot/"
     }
   },
    "addons": [{
