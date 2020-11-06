@@ -1,11 +1,11 @@
 class config:
-    BOT_TOKEN = "1410886016:AAG7NACLV9I_5llbYzmBsJOWmiMuRIIDbQ8"
+    BOT_TOKEN = "1444687125:AAF0KSkn87GBuO1EHj0hD33TY0EF-J5_4YM"
     APP_ID = "1425638"
     API_HASH = "219531a945b5b4a1cd0615a6907b19a4"
     DATABASE_URL = "https://data.heroku.com/datastores/6698bf93-b85c-4db4-8c81-7bd534e07baa"
     SUDO_USERS = "542281366" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/joinchat/IFKOlhwMhnegUYgb_CVoog"
-    DOWNLOAD_DIRECTORY = "./downloads/"
+    DOWNLOAD_DIRECTORY = "./Upload Bot/"
 
 
 class BotCommands:
